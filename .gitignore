@@ -1,0 +1,10 @@
+glove.6B/
+glove.6B.zip
+.ipynb_checkpoints/
+
+# I don't know why the following line is here,
+# It prevents my from adding new directory,
+# so I commented it.
+# *
+
+!*.py
